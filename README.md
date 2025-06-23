@@ -1,0 +1,2 @@
+# -STC8G1K08-36I-DFN8-1T-8051-
+UART/ADC/I2C 等外设初始化 C 代码
